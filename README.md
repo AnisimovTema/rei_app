@@ -70,7 +70,7 @@ After activation, the application loads the assigned VPN profile automatically a
 | Platform | Status | Download |
 | --- | --- | --- |
 | 🤖 **Android** | 🟢 Available | [Download APK](./downloads/rei-android.apk) |
-| 🍏 **iOS** | 🟢 Available | [Download](./downloads/rei-android.apk) |
+| 🍏 **iOS** | 🟢 Available | [Download via TestFlight](https://testflight.apple.com/join/weD4zQd6) |
 | 🖥️ **Windows** | 🟡 In Develop | Coming soon |
 | 💻 **MacOS** | 🟡 In Develop | Coming soon |
 | 🐧 **Linux** | 🟠 Planned | Coming soon |
