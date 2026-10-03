@@ -75,6 +75,12 @@ After activation, the application loads the assigned VPN profile automatically a
 | 💻 **MacOS** | 🟡 In Develop | Coming soon |
 | 🐧 **Linux** | 🟠 Planned | Coming soon |
 
+---
+
+### Would you like to join the party?
+
+[Contact us](https://t.me/temitycore) to get instructions on how to get started quickly
+
 <div align="center">
 
 **RE:I — connect once, keep the configuration out of the way.**
