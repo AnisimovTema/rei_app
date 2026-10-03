@@ -81,10 +81,4 @@ After activation, the application loads the assigned VPN profile automatically a
 
 [Contact us](https://t.me/temitycore) to get instructions on how to get started quickly
 
-<div align="center">
-
-**RE:I — connect once, keep the configuration out of the way.**
-
-</div>
-
 ---
