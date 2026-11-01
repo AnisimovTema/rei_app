@@ -79,6 +79,6 @@ After activation, the application loads the assigned VPN profile automatically a
 
 ### Would you like to join the party?
 
-[Contact us](https://t.me/temitycore) to get instructions on how to get started quickly
+[Contact us](https://t.me/aneasymove) to get instructions on how to get started quickly
 
 ---
