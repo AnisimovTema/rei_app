@@ -1,6 +1,6 @@
 <div align="center">
 
-# RE:I [1.0.0]
+# RE:I [1.1.0]
 
 **A compact VPN client focused on simple access, device profiles, and fast server switching.**
 
